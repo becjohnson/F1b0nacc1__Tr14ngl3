@@ -1,0 +1,16 @@
+C:\Users\beaut\Desktop\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Users\beaut\Desktop\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\Users\beaut\Desktop\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\Users\beaut\Desktop\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\Users\beaut\Desktop\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+C:\Users\beaut\Desktop\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.AssemblyReference.cache
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.Form1.resources
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.GenerateResource.cache
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\beaut\Desktop\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
